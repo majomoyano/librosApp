@@ -34,6 +34,7 @@ import { FlexLayoutModule } from "@angular/flex-layout";
     MatIconModule,
     MatToolbarModule,
     MatCardModule,
+    FlexLayoutModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
